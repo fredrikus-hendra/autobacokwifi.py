@@ -1,4 +1,0 @@
-autobacokwifi.py
-================
-
-Copas :v
